@@ -196,7 +196,7 @@ footer p {
 .spacer {
     margin:0; 
     padding:0; 
-    height:100px;
+    height:30px;
 }
 
 @media screen and (min-width:1200px) {
