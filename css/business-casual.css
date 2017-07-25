@@ -193,6 +193,12 @@ footer p {
     text-align: center;
 }
 
+.spacer {
+    margin:0; 
+    padding:0; 
+    height:100px;
+}
+
 @media screen and (min-width:1200px) {
     .box:after {
         content: '';
